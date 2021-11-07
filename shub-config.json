@@ -1,0 +1,14 @@
+{
+    "version": "0.21.3",
+    "username": "Filipe Leuch Bonfim",
+    "github_username": "filipe1309",
+    "project_name": "Micro Auth with Keycloak",
+    "project_repo_name": "fc-micro-auth",
+    "project_repo_link": "https://github.com/filipe1309/fc-micro-auth.git",
+    "course_source": "FullCycle",
+    "course_name": "Autenticação entre os microsserviços",
+    "course_link": "https://portal.code.education/lms/#/180/163/114/conteudos?capitulo=776&conteudo=6773",
+    "course_type": "class",
+    "course_multiple": "false",
+    "vcs": "true"
+}
